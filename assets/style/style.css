@@ -1,0 +1,139 @@
+blockquote.twitter-tweet {
+    display: inline-block;
+    font-family: "Helvetica Neue", Rosboto, "Segoe UI", Calibri, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 16px;
+    border-color: #eee #ddd #bbb;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+    margin: 10px 5px;
+    padding: 0 16px 16px 16px;
+    max-width: 468px;
+  }
+  
+  blockquote.twitter-tweet p {
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 20px;
+  }
+  
+  blockquote.twitter-tweet a {
+    color: inherit;
+    font-weight: normal;
+    text-decoration: none;
+    outline: 0 none;
+  }
+  
+  blockquote.twitter-tweet a:hover,
+  blockquote.twitter-tweet a:focus {
+    text-decoration: underline;
+  }
+
+  .tab-pane{
+    height:300px;
+    overflow-y:scroll;
+    width:100%;
+  }
+
+ html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+#map {
+    height: 60%;
+    width: 60%;
+    display: block;
+    margin: auto;
+}
+
+#description {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 300;
+  }
+
+  #infowindow-content .title {
+    font-weight: bold;
+  }
+
+  #infowindow-content {
+    display: none;
+  }
+
+  #map #infowindow-content {
+    display: inline;
+  }
+
+  .pac-card {
+    margin: 10px 10px 0 0;
+    border-radius: 2px 0 0 2px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    outline: none;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+    background-color: #fff;
+    font-family: Roboto;
+  }
+
+  #pac-container {
+    padding-bottom: 12px;
+    margin-right: 12px;
+  }
+
+  .pac-controls {
+    display: inline-block;
+    padding: 5px 11px;
+  }
+
+  .pac-controls label {
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 300;
+  }
+
+  #pac-input {
+    background-color: #fff;
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: 300;
+    display: block;
+    margin: auto;
+    margin-bottom: 1%;
+    padding: 0 11px 0 13px;
+    text-overflow: ellipsis;
+    width: 60%;
+  }
+
+  #pac-input:focus {
+    border-color: #4d90fe;
+  }
+
+  #title {
+    color: #fff;
+    background-color: #4d90fe;
+    font-size: 30px;
+    font-weight: 500;
+    padding: 6px 12px;
+  }
+  #target {
+    width: 345px;
+  }
+
+  .table {
+    width: 50%;
+    margin: 0px auto;
+    float: none;
+  }
+  .table td {
+    padding: 5px;
+    padding-left: 30px;
+  }
+  
+  .panel-heading {
+    font-weight: 800;
+  }
