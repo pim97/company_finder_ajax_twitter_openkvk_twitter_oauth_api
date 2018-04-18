@@ -1,29 +1,9 @@
-# README #
+## About this project
+<p align="center">We had to use Ajax calls and API's to create a new website that actually had a use. We created a website where you could look up information about any business online with reviews, ratings, kvk details and such. http://www.projectsonhz.nl/api/</p>
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## API's used
+<p align="center">We used the following API's: Google Maps API, Twitter OAuth, OpenKVK, Google Play API</p>
+<p align="center">We also used bootstrap for this website</p>
 
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+## Final grade
+<p align="center">Final grade: 9.0</p>
